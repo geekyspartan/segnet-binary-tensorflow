@@ -1,0 +1,2002 @@
+Training accuracy0.0971636513346
+Test accuracy: 0.588585068782
+Training accuracy0.120368695573
+Empty
+Training accuracy0.121013431957
+Empty
+Training accuracy0.103623355298
+Empty
+Training accuracy0.0931518638605
+Empty
+Training accuracy0.0911625553119
+Empty
+Training accuracy0.0918253836663
+Empty
+Training accuracy0.0925520838876
+Empty
+Training accuracy0.0901652962754
+Empty
+Training accuracy0.0874915024952
+Empty
+Training accuracy0.0913467658193
+Empty
+Training accuracy0.0949377739116
+Empty
+Training accuracy0.0963119523306
+Empty
+Training accuracy0.0964103607755
+Empty
+Training accuracy0.0962280693807
+Empty
+Training accuracy0.097112116845
+Empty
+Training accuracy0.100470668391
+Empty
+Training accuracy0.104390076117
+Empty
+Training accuracy0.106762335489
+Empty
+Training accuracy0.107196547483
+Empty
+Training accuracy0.106524670987
+Empty
+Training accuracy0.106915021805
+Empty
+Training accuracy0.107987116826
+Empty
+Training accuracy0.11244161231
+Empty
+Training accuracy0.115705866171
+Empty
+Training accuracy0.117750821929
+Empty
+Training accuracy0.119498903422
+Empty
+Training accuracy0.121008498104
+Empty
+Training accuracy0.121904605313
+Empty
+Training accuracy0.122923520835
+Empty
+Training accuracy0.123934484626
+Empty
+Training accuracy0.124487938065
+Empty
+Training accuracy0.125295504928
+Empty
+Training accuracy0.126767269875
+Empty
+Training accuracy0.127384594397
+Empty
+Training accuracy0.127584703659
+Empty
+Training accuracy0.128852520726
+Empty
+Training accuracy0.13009018647
+Empty
+Training accuracy0.131026589949
+Empty
+Training accuracy0.131596766804
+Empty
+Training accuracy0.132662829208
+Empty
+Training accuracy0.133554000996
+Empty
+Training accuracy0.13392790603
+Empty
+Training accuracy0.134291940222
+Empty
+Training accuracy0.135573191078
+Empty
+Training accuracy0.136430923092
+Empty
+Training accuracy0.137102248637
+Empty
+Training accuracy0.137410360732
+Empty
+Training accuracy0.137987937582
+Empty
+Training accuracy0.138751644053
+Empty
+Training accuracy0.139171052136
+Empty
+Training accuracy0.139878837686
+Empty
+Training accuracy0.140418036204
+Empty
+Training accuracy0.140992050892
+Empty
+Training accuracy0.141248081076
+Empty
+Training accuracy0.141688593908
+Empty
+Training accuracy0.142055098948
+Empty
+Training accuracy0.142413102482
+Empty
+Training accuracy0.143101700042
+Empty
+Training accuracy0.143820997131
+Empty
+Training accuracy0.144378290365
+Empty
+Training accuracy0.144710252944
+Empty
+Training accuracy0.145115679816
+Empty
+Training accuracy0.145879659998
+Empty
+Training accuracy0.146399946589
+Empty
+Training accuracy0.146947917185
+Empty
+Training accuracy0.147434758513
+Empty
+Training accuracy0.147759319136
+Empty
+Training accuracy0.148075384529
+Empty
+Training accuracy0.148279058306
+Empty
+Training accuracy0.14838349976
+Empty
+Training accuracy0.14867269836
+Empty
+Training accuracy0.148886511985
+Empty
+Training accuracy0.148873903249
+Empty
+Training accuracy0.149121162923
+Empty
+Training accuracy0.149374452861
+Empty
+Training accuracy0.149689420273
+Empty
+Training accuracy0.149982456314
+Empty
+Training accuracy0.150254658963
+Empty
+Training accuracy0.150594573272
+Empty
+Training accuracy0.150864859161
+Empty
+Training accuracy0.151179004657
+Empty
+Training accuracy0.151563049147
+Empty
+Training accuracy0.151904877863
+Empty
+Training accuracy0.152337446025
+Empty
+Training accuracy0.15266501982
+Empty
+Training accuracy0.152811128058
+Empty
+Training accuracy0.153121709824
+Empty
+Training accuracy0.153469848005
+Empty
+Training accuracy0.153791393104
+Empty
+Training accuracy0.15401644691
+Empty
+Training accuracy0.154156251173
+Empty
+Training accuracy0.154318258166
+Empty
+Training accuracy0.154453125439
+Empty
+Training accuracy0.154654604824
+Empty
+Training accuracy0.15482209466
+Empty
+Training accuracy0.15501754378
+Empty
+Training accuracy0.155306194958
+Empty
+Training accuracy0.155430098113
+Empty
+Training accuracy0.155728894629
+Empty
+Training accuracy0.156001096493
+Empty
+Training accuracy0.156206963094
+Empty
+Training accuracy0.156404056047
+Empty
+Training accuracy0.156614858069
+Empty
+Training accuracy0.156836623424
+Empty
+Training accuracy0.157100054779
+Empty
+Training accuracy0.157284812708
+Empty
+Training accuracy0.157450107367
+Empty
+Training accuracy0.157545504601
+Empty
+Training accuracy0.157633223032
+Empty
+Training accuracy0.157777137662
+Empty
+Training accuracy0.157838815921
+Empty
+Training accuracy0.157871711411
+Empty
+Training accuracy0.158151865005
+Empty
+Training accuracy0.158376643532
+Empty
+Training accuracy0.158635690024
+Empty
+Training accuracy0.158964089657
+Empty
+Training accuracy0.159153233233
+Empty
+Training accuracy0.15934073376
+Empty
+Training accuracy0.15953097767
+Empty
+Training accuracy0.159731084579
+Empty
+Training accuracy0.159922422547
+Empty
+Training accuracy0.160026867139
+Empty
+Training accuracy0.16020696022
+Empty
+Training accuracy0.160309485699
+Empty
+Training accuracy0.160434210771
+Empty
+Training accuracy0.160601151617
+Empty
+Training accuracy0.160728892213
+Empty
+Training accuracy0.16086595231
+Empty
+Training accuracy0.160998355401
+Empty
+Training accuracy0.161084429214
+Empty
+Training accuracy0.161231635432
+Empty
+Training accuracy0.161343475706
+Empty
+Training accuracy0.161506031689
+Empty
+Training accuracy0.161622532888
+Empty
+Training accuracy0.161669681731
+Empty
+Training accuracy0.16170531825
+Empty
+Training accuracy0.161830867592
+Empty
+Training accuracy0.162016447437
+Empty
+Training accuracy0.162168310661
+Empty
+Training accuracy0.162242875287
+Empty
+Training accuracy0.162380756516
+Empty
+Training accuracy0.162614583969
+Empty
+Training accuracy0.162814692447
+Empty
+Training accuracy0.162977246862
+Empty
+Training accuracy0.1631463821
+Empty
+Training accuracy0.163292489554
+Empty
+Training accuracy0.163432565175
+Empty
+Training accuracy0.16353152457
+Empty
+Training accuracy0.163636513447
+Empty
+Training accuracy0.163791118484
+Empty
+Training accuracy0.163941064163
+Empty
+Training accuracy0.16408223698
+Empty
+Training accuracy0.164241229233
+Empty
+Training accuracy0.164376917638
+Empty
+Training accuracy0.164464910564
+Empty
+Training accuracy0.164504934298
+Empty
+Training accuracy0.164579496572
+Empty
+Training accuracy0.164601425591
+Empty
+Training accuracy0.164725055036
+Empty
+Training accuracy0.164832236735
+Empty
+Training accuracy0.164948738719
+Empty
+Training accuracy0.165039474243
+Empty
+Training accuracy0.165160087378
+Empty
+Training accuracy0.165351151636
+Empty
+Training accuracy0.165513980545
+Empty
+Training accuracy0.165660087215
+Empty
+Training accuracy0.165772478047
+Empty
+Training accuracy0.165875819953
+Empty
+Training accuracy0.165964638716
+Empty
+Training accuracy0.166042214161
+Empty
+Training accuracy0.166124725812
+Empty
+Training accuracy0.166212718738
+Empty
+Training accuracy0.166308662609
+Empty
+Training accuracy0.16635197401
+Empty
+Training accuracy0.166410635961
+Empty
+Training accuracy0.166444901573
+Empty
+Training accuracy0.166501096205
+Empty
+Training accuracy0.166626643193
+Empty
+Training accuracy0.166724232467
+Empty
+Training accuracy0.166831414951
+Empty
+Training accuracy0.16693558191
+Empty
+Training accuracy0.167039747301
+Empty
+Training accuracy0.167128562927
+Empty
+Training accuracy0.167209429176
+Empty
+Training accuracy0.167356906753
+Empty
+Training accuracy0.167401589845
+Empty
+Training accuracy0.167462994394
+Empty
+Training accuracy0.16752439502
+Empty
+Training accuracy0.16756112952
+Empty
+Training accuracy0.167571272505
+Empty
+Training accuracy0.167561676941
+Empty
+Training accuracy0.167625000602
+Empty
+Training accuracy0.167791666953
+Empty
+Training accuracy0.167936950138
+Empty
+Training accuracy0.168026314754
+Empty
+Training accuracy0.168093751136
+Empty
+Training accuracy0.168187498262
+Empty
+Training accuracy0.168304004952
+Empty
+Training accuracy0.168383772436
+Empty
+Training accuracy0.168475876513
+Empty
+Training accuracy0.168525494243
+Empty
+Training accuracy0.168581689659
+Empty
+Training accuracy0.16864638109
+Empty
+Training accuracy0.168705043824
+Empty
+Training accuracy0.168773575049
+Empty
+Training accuracy0.168795504852
+Empty
+Training accuracy0.168842927406
+Empty
+Training accuracy0.16887445042
+Empty
+Training accuracy0.168957785556
+Empty
+Training accuracy0.169050439408
+Empty
+Training accuracy0.169128835986
+Empty
+Training accuracy0.169171875245
+Empty
+Training accuracy0.169241777376
+Empty
+Training accuracy0.169304551263
+Empty
+Training accuracy0.169359925546
+Empty
+Training accuracy0.16941282859
+Empty
+Training accuracy0.169481361383
+Empty
+Training accuracy0.169532621377
+Empty
+Training accuracy0.169563320122
+Empty
+Training accuracy0.169615405955
+Empty
+Training accuracy0.169678455905
+Empty
+Training accuracy0.169731907154
+Empty
+Training accuracy0.169760141718
+Empty
+Training accuracy0.169784265129
+Empty
+Training accuracy0.169860745731
+Empty
+Training accuracy0.169905428039
+Empty
+Training accuracy0.169952300034
+Empty
+Training accuracy0.169986018225
+Empty
+Training accuracy0.170037282141
+Empty
+Training accuracy0.170067435817
+Empty
+Training accuracy0.170133498938
+Empty
+Training accuracy0.170181195203
+Empty
+Training accuracy0.170242874246
+Empty
+Training accuracy0.170290296015
+Empty
+Training accuracy0.170341556794
+Empty
+Training accuracy0.170367598534
+Empty
+Training accuracy0.170405153381
+Empty
+Training accuracy0.170445997464
+Empty
+Training accuracy0.170462992631
+Empty
+Training accuracy0.170505757395
+Empty
+Training accuracy0.170556193904
+Empty
+Training accuracy0.170592105702
+Empty
+Training accuracy0.170628838633
+Empty
+Training accuracy0.170691064314
+Empty
+Training accuracy0.170715186941
+Empty
+Training accuracy0.170781524558
+Empty
+Training accuracy0.170817707714
+Empty
+Training accuracy0.170855538625
+Empty
+Training accuracy0.170898301037
+Empty
+Training accuracy0.170941062664
+Empty
+Training accuracy0.170990680393
+Empty
+Training accuracy0.171029604579
+Empty
+Training accuracy0.171058936339
+Empty
+Training accuracy0.171098136588
+Empty
+Training accuracy0.171125000245
+Empty
+Training accuracy0.171164472636
+Empty
+Training accuracy0.171194353386
+Empty
+Training accuracy0.1712302644
+Empty
+Training accuracy0.171269463081
+Empty
+Training accuracy0.171320450149
+Empty
+Training accuracy0.171352520585
+Empty
+Training accuracy0.171410911962
+Empty
+Training accuracy0.17143201828
+Empty
+Training accuracy0.171475877103
+Empty
+Training accuracy0.171525219553
+Empty
+Training accuracy0.171577029322
+Empty
+Training accuracy0.171628014037
+Empty
+Training accuracy0.171620067013
+Empty
+Training accuracy0.171651041037
+Empty
+Training accuracy0.171692160399
+Empty
+Training accuracy0.171742323198
+Empty
+Training accuracy0.171787280785
+Empty
+Training accuracy0.171846488589
+Empty
+Training accuracy0.171915021382
+Empty
+Training accuracy0.171986567347
+Empty
+Training accuracy0.17201589989
+Empty
+Training accuracy0.172035360807
+Empty
+Training accuracy0.17207319015
+Empty
+Training accuracy0.172080865816
+Empty
+Training accuracy0.172111294771
+Empty
+Training accuracy0.172140624962
+Empty
+Training accuracy0.172176535192
+Empty
+Training accuracy0.172211074515
+Empty
+Training accuracy0.172253287937
+Empty
+Training accuracy0.172298519235
+Empty
+Training accuracy0.172272203784
+Empty
+Training accuracy0.172272479848
+Empty
+Training accuracy0.172295228431
+Empty
+Training accuracy0.172346764489
+Empty
+Training accuracy0.17237746794
+Empty
+Training accuracy0.172422423959
+Empty
+Training accuracy0.172433662571
+Empty
+Training accuracy0.172459156105
+Empty
+Training accuracy0.172502196149
+Empty
+Training accuracy0.172529331163
+Empty
+Training accuracy0.172571547722
+Empty
+Training accuracy0.172595392717
+Empty
+Training accuracy0.172629935961
+Empty
+Training accuracy0.172678179647
+Empty
+Training accuracy0.172676260534
+Empty
+Training accuracy0.172705593078
+Empty
+Training accuracy0.172750000107
+Empty
+Training accuracy0.172778508381
+Empty
+Training accuracy0.172815790302
+Empty
+Training accuracy0.172852523233
+Empty
+Training accuracy0.172874998889
+Empty
+Training accuracy0.172913650933
+Empty
+Training accuracy0.172957511325
+Empty
+Training accuracy0.172989856256
+Empty
+Training accuracy0.173012884824
+Empty
+Training accuracy0.173041392314
+Empty
+Training accuracy0.173081413696
+Empty
+Training accuracy0.173144462077
+Empty
+Training accuracy0.173145285562
+Empty
+Training accuracy0.173170778312
+Empty
+Training accuracy0.173173246415
+Empty
+Training accuracy0.173145558489
+Empty
+Training accuracy0.173163926915
+Empty
+Training accuracy0.17319161092
+Empty
+Training accuracy0.173224505625
+Empty
+Training accuracy0.173244791596
+Empty
+Training accuracy0.173286732874
+Empty
+Training accuracy0.173340460972
+Empty
+Training accuracy0.173383497878
+Empty
+Training accuracy0.173385689133
+Empty
+Training accuracy0.173402139231
+Empty
+Training accuracy0.173402959579
+Empty
+Training accuracy0.173431742348
+Empty
+Training accuracy0.173485197519
+Empty
+Training accuracy0.173473683627
+Empty
+Training accuracy0.173485197519
+Empty
+Training accuracy0.173543037553
+Empty
+Training accuracy0.173513981857
+Empty
+Training accuracy0.17350520821
+Empty
+Training accuracy0.17357017492
+Empty
+Training accuracy0.173601974782
+Empty
+Training accuracy0.17362582213
+Empty
+Training accuracy0.173668861389
+Empty
+Training accuracy0.173688869727
+Empty
+Training accuracy0.173731908202
+Empty
+Training accuracy0.173764254702
+Empty
+Training accuracy0.173803729446
+Empty
+Training accuracy0.173889253485
+Empty
+Training accuracy0.173813597936
+Empty
+Training accuracy0.173850054019
+Empty
+Training accuracy0.173884867053
+Empty
+Training accuracy0.173913925886
+Empty
+Training accuracy0.173929825425
+Empty
+Training accuracy0.173950659601
+Empty
+Training accuracy0.173973684248
+Empty
+Training accuracy0.174000000483
+Empty
+Training accuracy0.174001918812
+Empty
+Training accuracy0.174035088012
+Empty
+Training accuracy0.17404084535
+Empty
+Training accuracy0.174083333266
+Empty
+Training accuracy0.174073463208
+Empty
+Training accuracy0.174088816894
+Empty
+Training accuracy0.174134320334
+Empty
+Training accuracy0.174175712623
+Empty
+Training accuracy0.17419380577
+Empty
+Training accuracy0.174197916922
+Empty
+Training accuracy0.174233553441
+Empty
+Training accuracy0.174275766862
+Empty
+Training accuracy0.174301808602
+Empty
+Training accuracy0.174330044734
+Empty
+Training accuracy0.174358279297
+Empty
+Training accuracy0.174353618371
+Empty
+Training accuracy0.174396656846
+Empty
+Training accuracy0.174410086713
+Empty
+Training accuracy0.17444078938
+Empty
+Training accuracy0.174476427467
+Empty
+Training accuracy0.174530153996
+Empty
+Training accuracy0.174506579575
+Empty
+Training accuracy0.174516721776
+Empty
+Training accuracy0.174483004369
+Empty
+Training accuracy0.174473957012
+Empty
+Training accuracy0.174583058608
+Empty
+Training accuracy0.174615406676
+Empty
+Training accuracy0.174592652603
+Empty
+Training accuracy0.174593476873
+Empty
+Training accuracy0.174595394417
+Empty
+Training accuracy0.174651043195
+Empty
+Training accuracy0.174644736867
+Empty
+Training accuracy0.174585798853
+Empty
+Training accuracy0.174581686917
+Empty
+Training accuracy0.174603619074
+Empty
+Training accuracy0.174612115873
+Empty
+Training accuracy0.174633771181
+Empty
+Training accuracy0.174654057936
+Empty
+Training accuracy0.174673245141
+Empty
+Training accuracy0.174700108014
+Empty
+Training accuracy0.174711621906
+Empty
+Training accuracy0.174729441342
+Empty
+Training accuracy0.174755207802
+Empty
+Training accuracy0.174768091032
+Empty
+Training accuracy0.174786183395
+Empty
+Training accuracy0.17481304862
+Empty
+Training accuracy0.174842105884
+Empty
+Training accuracy0.174863760409
+Empty
+Training accuracy0.174884321658
+Empty
+Training accuracy0.174894461506
+Empty
+Training accuracy0.174930371736
+Empty
+Training accuracy0.174958883147
+Empty
+Training accuracy0.17498190701
+Empty
+Training accuracy0.175059484808
+Empty
+Training accuracy0.175031797666
+Empty
+Training accuracy0.175091008607
+Empty
+Training accuracy0.175027138308
+Empty
+Training accuracy0.175192981958
+Empty
+Training accuracy0.175053452975
+Empty
+Training accuracy0.175027686514
+Empty
+Training accuracy0.175130482567
+Empty
+Training accuracy0.17511979216
+Empty
+Training accuracy0.175075384347
+Empty
+Training accuracy0.175079496283
+Empty
+Training accuracy0.175130483351
+Empty
+Training accuracy0.175129386155
+Empty
+Training accuracy0.175183387963
+Empty
+Training accuracy0.175147753013
+Empty
+Training accuracy0.17512444995
+Empty
+Training accuracy0.175154057773
+Empty
+Training accuracy0.175186131346
+Empty
+Training accuracy0.175125823209
+Empty
+Training accuracy0.175167213929
+Empty
+Training accuracy0.175180098728
+Empty
+Training accuracy0.175205316983
+Empty
+Training accuracy0.175212718939
+Empty
+Training accuracy0.175208607002
+Empty
+Training accuracy0.175214091414
+Empty
+Training accuracy0.17523327862
+Empty
+Training accuracy0.175251097271
+Empty
+Training accuracy0.175267819511
+Empty
+Training accuracy0.1752716546
+Empty
+Training accuracy0.175297150486
+Empty
+Training accuracy0.175311676766
+Empty
+Training accuracy0.175332509373
+Empty
+Training accuracy0.17535142679
+Empty
+Training accuracy0.175373081314
+Empty
+Training accuracy0.175402412289
+Empty
+Training accuracy0.175436403406
+Empty
+Training accuracy0.175415843725
+Empty
+Training accuracy0.17548437495
+Empty
+Training accuracy0.175453674636
+Empty
+Training accuracy0.175529330185
+Empty
+Training accuracy0.175500548984
+Empty
+Training accuracy0.175559485429
+Empty
+Training accuracy0.175575930821
+Empty
+Training accuracy0.175562225674
+Empty
+Training accuracy0.175605813139
+Empty
+Training accuracy0.175616777257
+Empty
+Training accuracy0.175632400732
+Empty
+Training accuracy0.175604166953
+Empty
+Training accuracy0.175603341899
+Empty
+Training accuracy0.175685306913
+Empty
+Training accuracy0.17566063608
+Empty
+Training accuracy0.175537555626
+Empty
+Training accuracy0.175616227482
+Empty
+Training accuracy0.175583334346
+Empty
+Training accuracy0.175540295086
+Empty
+Training accuracy0.175552083473
+Empty
+Training accuracy0.175530974802
+Empty
+Training accuracy0.175552082689
+Empty
+Training accuracy0.175569901341
+Empty
+Training accuracy0.175577576223
+Empty
+Training accuracy0.175587171002
+Empty
+Training accuracy0.175598683326
+Empty
+Training accuracy0.175609100806
+Empty
+Training accuracy0.175621162904
+Empty
+Training accuracy0.175629111497
+Empty
+Training accuracy0.175646930933
+Empty
+Training accuracy0.175658992247
+Empty
+Training accuracy0.175674891786
+Empty
+Training accuracy0.175683662295
+Empty
+Training accuracy0.175696271815
+Empty
+Training accuracy0.175716281721
+Empty
+Training accuracy0.17573190755
+Empty
+Training accuracy0.175747258883
+Empty
+Training accuracy0.175766722152
+Empty
+Training accuracy0.175781249216
+Empty
+Training accuracy0.175802084176
+Empty
+Training accuracy0.175831963357
+Empty
+Training accuracy0.17585197248
+Empty
+Training accuracy0.175921051126
+Empty
+Training accuracy0.175860745342
+Empty
+Training accuracy0.176018092193
+Empty
+Training accuracy0.175885963597
+Empty
+Training accuracy0.176076753359
+Empty
+Training accuracy0.175920503704
+Empty
+Training accuracy0.176008225272
+Empty
+Training accuracy0.176045231129
+Empty
+Training accuracy0.175934758626
+Empty
+Training accuracy0.175935582111
+Empty
+Training accuracy0.176016995781
+Empty
+Training accuracy0.176042215605
+Empty
+Training accuracy0.176005208963
+Empty
+Training accuracy0.175998904203
+Empty
+Training accuracy0.17600027511
+Empty
+Training accuracy0.176009319331
+Empty
+Training accuracy0.17602192885
+Empty
+Training accuracy0.17601206036
+Empty
+Training accuracy0.175972587968
+Empty
+Training accuracy0.176023849531
+Empty
+Training accuracy0.175978892728
+Empty
+Training accuracy0.1760008241
+Empty
+Training accuracy0.176009593041
+Empty
+Training accuracy0.176021931203
+Empty
+Training accuracy0.176030976208
+Empty
+Training accuracy0.176039747502
+Empty
+Training accuracy0.176043035953
+Empty
+Training accuracy0.176054550629
+Empty
+Training accuracy0.176066335879
+Empty
+Training accuracy0.176079221462
+Empty
+Training accuracy0.176089638158
+Empty
+Training accuracy0.176100875986
+Empty
+Training accuracy0.17611156953
+Empty
+Training accuracy0.176122807358
+Empty
+Training accuracy0.176131032799
+Empty
+Training accuracy0.176147753471
+Empty
+Training accuracy0.176160362206
+Empty
+Training accuracy0.176166668534
+Empty
+Training accuracy0.176186680009
+Empty
+Training accuracy0.17619818998
+Empty
+Training accuracy0.176224506999
+Empty
+Training accuracy0.176248355131
+Empty
+Training accuracy0.176265076587
+Empty
+Training accuracy0.176379933953
+Empty
+Training accuracy0.176261239146
+Empty
+Training accuracy0.176471491393
+Empty
+Training accuracy0.176320998292
+Empty
+Training accuracy0.176476975021
+Empty
+Training accuracy0.176287829092
+Empty
+Training accuracy0.176426261663
+Empty
+Training accuracy0.176458058389
+Empty
+Training accuracy0.176401590046
+Empty
+Training accuracy0.176372808061
+Empty
+Training accuracy0.176417213522
+Empty
+Training accuracy0.176441338501
+Empty
+Training accuracy0.176413924286
+Empty
+Training accuracy0.176411732247
+Empty
+Training accuracy0.176475602545
+Empty
+Training accuracy0.176489583756
+Empty
+Training accuracy0.176344022939
+Empty
+Training accuracy0.176394461801
+Empty
+Training accuracy0.176484649903
+Empty
+Training accuracy0.176306468876
+Empty
+Training accuracy0.1763648579
+Empty
+Training accuracy0.176358278645
+Empty
+Training accuracy0.176357456728
+Empty
+Training accuracy0.176358828419
+Empty
+Training accuracy0.176370064679
+Empty
+Training accuracy0.176382126777
+Empty
+Training accuracy0.176387062198
+Empty
+Training accuracy0.176396380914
+Empty
+Training accuracy0.176404607139
+Empty
+Training accuracy0.176412005174
+Empty
+Training accuracy0.176417214306
+Empty
+Training accuracy0.176424615477
+Empty
+Training accuracy0.176432291928
+Empty
+Training accuracy0.176439144109
+Empty
+Training accuracy0.176452028908
+Empty
+Training accuracy0.176458607379
+Empty
+Training accuracy0.176466283045
+Empty
+Training accuracy0.1764728623
+Empty
+Training accuracy0.176485198893
+Empty
+Training accuracy0.176494518393
+Empty
+Training accuracy0.176507127912
+Empty
+Training accuracy0.176525219491
+Empty
+Training accuracy0.176534266848
+Empty
+Training accuracy0.176553454054
+Empty
+Training accuracy0.176603617637
+Empty
+Training accuracy0.176568530892
+Empty
+Training accuracy0.176600055475
+Empty
+Training accuracy0.176721216817
+Empty
+Training accuracy0.176564418172
+Empty
+Training accuracy0.176699287013
+Empty
+Training accuracy0.17672395863
+Empty
+Training accuracy0.176695725635
+Empty
+Training accuracy0.176692160337
+Empty
+Training accuracy0.176743697179
+Empty
+Training accuracy0.176708606513
+Empty
+Training accuracy0.176809759516
+Empty
+Training accuracy0.17678947433
+Empty
+Training accuracy0.176761788757
+Empty
+Training accuracy0.176672424141
+Empty
+Training accuracy0.176754660512
+Empty
+Training accuracy0.176629659377
+Empty
+Training accuracy0.176734923532
+Empty
+Training accuracy0.176711347542
+Empty
+Training accuracy0.1766973679
+Empty
+Training accuracy0.176653782004
+Empty
+Training accuracy0.176655701901
+Empty
+Training accuracy0.176663925773
+Empty
+Training accuracy0.176672423356
+Empty
+Training accuracy0.176673246057
+Empty
+Training accuracy0.176680099023
+Empty
+Training accuracy0.176690788645
+Empty
+Training accuracy0.176697640827
+Empty
+Training accuracy0.176704493792
+Empty
+Training accuracy0.176710800121
+Empty
+Training accuracy0.176715460263
+Empty
+Training accuracy0.17671984591
+Empty
+Training accuracy0.176726151454
+Empty
+Training accuracy0.176733278915
+Empty
+Training accuracy0.176736569718
+Empty
+Training accuracy0.176745341797
+Empty
+Training accuracy0.176749999586
+Empty
+Training accuracy0.176759319086
+Empty
+Training accuracy0.176771930174
+Empty
+Training accuracy0.176789199835
+Empty
+Training accuracy0.176797422924
+Empty
+Training accuracy0.176815241575
+Empty
+Training accuracy0.176833333153
+Empty
+Training accuracy0.176936128422
+Empty
+Training accuracy0.176829220433
+Empty
+Training accuracy0.176993693176
+Empty
+Training accuracy0.176866776065
+Empty
+Training accuracy0.177009594284
+Empty
+Training accuracy0.176856907575
+Empty
+Training accuracy0.176983278833
+Empty
+Training accuracy0.177048794533
+Empty
+Training accuracy0.176987391553
+Empty
+Training accuracy0.176947369387
+Empty
+Training accuracy0.176968750985
+Empty
+Training accuracy0.177054002881
+Empty
+Training accuracy0.176975601598
+Empty
+Training accuracy0.176929274672
+Empty
+Training accuracy0.176953673363
+Empty
+Training accuracy0.177007951235
+Empty
+Training accuracy0.17695175425
+Empty
+Training accuracy0.176868146187
+Empty
+Training accuracy0.176910634888
+Empty
+Training accuracy0.17690213652
+Empty
+Training accuracy0.176907072726
+Empty
+Training accuracy0.176902686295
+Empty
+Training accuracy0.176907893074
+Empty
+Training accuracy0.176913376702
+Empty
+Training accuracy0.176921601358
+Empty
+Training accuracy0.176927631623
+Empty
+Training accuracy0.176929001745
+Empty
+Training accuracy0.176934484588
+Empty
+Training accuracy0.176939142378
+Empty
+Training accuracy0.176942982956
+Empty
+Training accuracy0.176950658623
+Empty
+Training accuracy0.176953948642
+Empty
+Training accuracy0.176961075318
+Empty
+Training accuracy0.176965184902
+Empty
+Training accuracy0.176969298407
+Empty
+Training accuracy0.176979166897
+Empty
+Training accuracy0.176984925019
+Empty
+Training accuracy0.176992323054
+Empty
+Training accuracy0.176998630166
+Empty
+Training accuracy0.177011239686
+Empty
+Training accuracy0.177025493038
+Empty
+Training accuracy0.177038377053
+Empty
+Training accuracy0.177097314282
+Empty
+Training accuracy0.177040023239
+Empty
+Training accuracy0.177087445792
+Empty
+Training accuracy0.177168311257
+Empty
+Training accuracy0.1770989589
+Empty
+Training accuracy0.17724232454
+Empty
+Training accuracy0.177136514532
+Empty
+Training accuracy0.177246436477
+Empty
+Training accuracy0.17715049339
+Empty
+Training accuracy0.177246984683
+Empty
+Training accuracy0.177191337473
+Empty
+Training accuracy0.177139528488
+Empty
+Training accuracy0.177257675874
+Empty
+Training accuracy0.177109923018
+Empty
+Training accuracy0.17722532859
+Empty
+Training accuracy0.177291118785
+Empty
+Training accuracy0.177216831007
+Empty
+Training accuracy0.177226150506
+Empty
+Training accuracy0.177193530296
+Empty
+Training accuracy0.177247807384
+Empty
+Training accuracy0.177220670016
+Empty
+Training accuracy0.177249724928
+Empty
+Training accuracy0.177261514099
+Empty
+Training accuracy0.177145010547
+Empty
+Training accuracy0.177237663614
+Empty
+Training accuracy0.177202851364
+Empty
+Training accuracy0.17721299435
+Empty
+Training accuracy0.177208607134
+Empty
+Training accuracy0.177168585752
+Empty
+Training accuracy0.177188868585
+Empty
+Training accuracy0.177185307208
+Empty
+Training accuracy0.177184210796
+Empty
+Training accuracy0.177188597227
+Empty
+Training accuracy0.177192434669
+Empty
+Training accuracy0.1771968211
+Empty
+Training accuracy0.177198191222
+Empty
+Training accuracy0.177202576869
+Empty
+Training accuracy0.17720339957
+Empty
+Training accuracy0.177209156908
+Empty
+Training accuracy0.177213267276
+Empty
+Training accuracy0.177214913462
+Empty
+Training accuracy0.177220395521
+Empty
+Training accuracy0.177224505889
+Empty
+Training accuracy0.177229440526
+Empty
+Training accuracy0.177231359639
+Empty
+Training accuracy0.177236018996
+Empty
+Training accuracy0.177242323756
+Empty
+Training accuracy0.177250547629
+Empty
+Training accuracy0.177257949584
+Empty
+Training accuracy0.177271380236
+Empty
+Training accuracy0.177282344354
+Empty
+Training accuracy0.177353618961
+Empty
+Training accuracy0.177270834383
+Empty
+Training accuracy0.177437223886
+Empty
+Training accuracy0.177324834623
+Empty
+Training accuracy0.177422696823
+Empty
+Training accuracy0.177421599627
+Empty
+Training accuracy0.177475328508
+Empty
+Training accuracy0.177496984601
+Empty
+Training accuracy0.17744407842
+Empty
+Training accuracy0.177508222429
+Empty
+Training accuracy0.177395561024
+Empty
+Training accuracy0.177501643959
+Empty
+Training accuracy0.177403234338
+Empty
+Training accuracy0.177506029606
+Empty
+Training accuracy0.177440790754
+Empty
+Training accuracy0.177334430186
+Empty
+Training accuracy0.17746080066
+Empty
+Training accuracy0.177408717181
+Empty
+Training accuracy0.177330319034
+Empty
+Training accuracy0.177404606029
+Empty
+Training accuracy0.177391994156
+Empty
+Training accuracy0.177363759593
+Empty
+Training accuracy0.177359100235
+Empty
+Training accuracy0.177356632132
+Empty
+Training accuracy0.177355537289
+Empty
+Training accuracy0.177360469573
+Empty
+Training accuracy0.17736622848
+Empty
+Training accuracy0.177367324108
+Empty
+Training accuracy0.177371709755
+Empty
+Training accuracy0.177374726063
+Empty
+Training accuracy0.177379662269
+Empty
+Training accuracy0.17738349971
+Empty
+Training accuracy0.177386788161
+Empty
+Training accuracy0.177389254695
+Empty
+Training accuracy0.177393366632
+Empty
+Training accuracy0.17739802599
+Empty
+Training accuracy0.177400493308
+Empty
+Training accuracy0.177405154234
+Empty
+Training accuracy0.177410637862
+Empty
+Training accuracy0.177413925529
+Empty
+Training accuracy0.177419133092
+Empty
+Training accuracy0.177427083254
+Empty
+Training accuracy0.177437225455
+Empty
+Training accuracy0.17744407842
+Empty
+Training accuracy0.177465459234
+Empty
+Training accuracy0.177452029366
+Empty
+Training accuracy0.177480536072
+Empty
+Training accuracy0.177578671982
+Empty
+Training accuracy0.177483552381
+Empty
+Training accuracy0.177644462178
+Empty
+Training accuracy0.177476148856
+Empty
+Training accuracy0.177611296114
+Empty
+Training accuracy0.177617871448
+Empty
+Training accuracy0.177664472869
+Empty
+Training accuracy0.177608279021
+Empty
+Training accuracy0.177666941756
+Empty
+Training accuracy0.177580042105
+Empty
+Training accuracy0.177689967187
+Empty
+Training accuracy0.177573190708
+Empty
+Training accuracy0.177556470821
+Empty
+Training accuracy0.177642270923
+Empty
+Training accuracy0.177574013409
+Empty
+Training accuracy0.17754248961
+Empty
+Training accuracy0.177603620448
+Empty
+Training accuracy0.177556195541
+Empty
+Training accuracy0.17767872779
+Empty
+Training accuracy0.177509319625
+Empty
+Training accuracy0.177625823178
+Empty
+Training accuracy0.177561678384
+Empty
+Training accuracy0.177540568929
+Empty
+Training accuracy0.177540843424
+Empty
+Training accuracy0.177538926664
+Empty
+Training accuracy0.177544133444
+Empty
+Training accuracy0.177549889997
+Empty
+Training accuracy0.177552357316
+Empty
+Training accuracy0.17755427486
+Empty
+Training accuracy0.177557565664
+Empty
+Training accuracy0.177560581188
+Empty
+Training accuracy0.177563050076
+Empty
+Training accuracy0.177564966051
+Empty
+Training accuracy0.17756688438
+Empty
+Training accuracy0.177569626193
+Empty
+Training accuracy0.177572642502
+Empty
+Training accuracy0.177572368007
+Empty
+Training accuracy0.177575932522
+Empty
+Training accuracy0.177579496252
+Empty
+Training accuracy0.177584157178
+Empty
+Training accuracy0.177587447982
+Empty
+Training accuracy0.17759347511
+Empty
+Training accuracy0.177599506159
+Empty
+Training accuracy0.177609100938
+Empty
+Training accuracy0.177619792129
+Empty
+Training accuracy0.17762938534
+Empty
+Training accuracy0.177658442604
+Empty
+Training accuracy0.177640076531
+Empty
+Training accuracy0.177768091622
+Empty
+Training accuracy0.177693255638
+Empty
+Training accuracy0.177844572224
+Empty
+Training accuracy0.177702302211
+Empty
+Training accuracy0.177837170268
+Empty
+Training accuracy0.177720120863
+Empty
+Training accuracy0.177836897342
+Empty
+Training accuracy0.17769928904
+Empty
+Training accuracy0.177802082739
+Empty
+Training accuracy0.177707237633
+Empty
+Training accuracy0.177735196917
+Empty
+Training accuracy0.17777713898
+Empty
+Training accuracy0.177732457456
+Empty
+Training accuracy0.177739307284
+Empty
+Training accuracy0.177751370951
+Empty
+Training accuracy0.177817983847
+Empty
+Training accuracy0.177817160362
+Empty
+Training accuracy0.177692709
+Empty
+Training accuracy0.177797697092
+Empty
+Training accuracy0.177770558156
+Empty
+Training accuracy0.177813322136
+Empty
+Training accuracy0.177690787535
+Empty
+Training accuracy0.177727797314
+Empty
+Training accuracy0.177719571873
+Empty
+Training accuracy0.177724504941
+Empty
+Training accuracy0.177713816103
+Empty
+Training accuracy0.177717104554
+Empty
+Training accuracy0.177717379834
+Empty
+Training accuracy0.177721492554
+Empty
+Training accuracy0.17772450651
+Empty
+Training accuracy0.177725876632
+Empty
+Training accuracy0.177729715642
+Empty
+Training accuracy0.177733553868
+Empty
+Training accuracy0.177736294897
+Empty
+Training accuracy0.177739584132
+Empty
+Training accuracy0.177743420789
+Empty
+Training accuracy0.177747256662
+Empty
+Training accuracy0.177749451054
+Empty
+Training accuracy0.177752740289
+Empty
+Training accuracy0.177754660186
+Empty
+Training accuracy0.177758771338
+Empty
+Training accuracy0.177760690451
+Empty
+Training accuracy0.177764527892
+Empty
+Training accuracy0.177770009951
+Empty
+Training accuracy0.177779330235
+Empty
+Training accuracy0.177789199509
+Empty
+Training accuracy0.177804277131
+Empty
+Training accuracy0.177881031444
+Empty
+Training accuracy0.177793859651
+Empty
+Training accuracy0.177990405967
+Empty
+Training accuracy0.17785855265
+Empty
+Training accuracy0.177982730301
+Empty
+Training accuracy0.177864583699
+Empty
+Training accuracy0.177996162521
+Empty
+Training accuracy0.177893641748
+Empty
+Training accuracy0.177955044728
+Empty
+Training accuracy0.177989858546
+Empty
+Training accuracy0.178001918291
+Empty
+Training accuracy0.178012883977
+Empty
+Training accuracy0.177996433879
+Empty
+Training accuracy0.177956686992
+Empty
+Training accuracy0.178076478212
+Empty
+Training accuracy0.177918039654
+Empty
+Training accuracy0.17791392615
+Empty
+Training accuracy0.177990680462
+Empty
+Training accuracy0.177862666155
+Empty
+Training accuracy0.177990681247
+Empty
+Training accuracy0.177983004012
+Empty
+Training accuracy0.177975328345
+Empty
+Training accuracy0.177892544552
+Empty
+Training accuracy0.177901588772
+Empty
+Training accuracy0.177893640179
+Empty
+Training accuracy0.177901042135
+Empty
+Training accuracy0.177906249699
+Empty
+Training accuracy0.17790652341
+Empty
+Training accuracy0.177909814213
+Empty
+Training accuracy0.177912005468
+Empty
+Training accuracy0.177915294704
+Empty
+Training accuracy0.177917213816
+Empty
+Training accuracy0.177919407424
+Empty
+Training accuracy0.177921052826
+Empty
+Training accuracy0.177922697444
+Empty
+Training accuracy0.177925164762
+Empty
+Training accuracy0.177926808596
+Empty
+Training accuracy0.177928453998
+Empty
+Training accuracy0.177932839645
+Empty
+Training accuracy0.177935580674
+Empty
+Training accuracy0.177938047993
+Empty
+Training accuracy0.177939417331
+Empty
+Training accuracy0.177942708135
+Empty
+Training accuracy0.177947643556
+Empty
+Training accuracy0.177951206502
+Empty
+Training accuracy0.17795340011
+Empty
+Training accuracy0.17795696384
+Empty
+Training accuracy0.177960800497
+Empty
+Training accuracy0.177971491688
+Empty
+Training accuracy0.17798437335
+Empty
+Training accuracy0.178054824471
+Empty
+Training accuracy0.177972041463
+Empty
+Training accuracy0.178097038677
+Empty
+Training accuracy0.178067982981
+Empty
+Training accuracy0.178127465279
+Empty
+Training accuracy0.178005206742
+Empty
+Training accuracy0.178192981764
+Empty
+Training accuracy0.1780704503
+Empty
+Training accuracy0.178096764966
+Empty
+Training accuracy0.17807099929
+Empty
+Training accuracy0.178073189761
+Empty
+Training accuracy0.178130756083
+Empty
+Training accuracy0.178030428134
+Empty
+Training accuracy0.1780992315
+Empty
+Training accuracy0.178082234765
+Empty
+Training accuracy0.178165845181
+Empty
+Training accuracy0.17803426479
+Empty
+Training accuracy0.178145283931
+Empty
+Training accuracy0.178141448059
+Empty
+Training accuracy0.178132948907
+Empty
+Training accuracy0.178151042054
+Empty
+Training accuracy0.178163651573
+Empty
+Training accuracy0.178242324999
+Empty
+Training accuracy0.178231633023
+Empty
+Training accuracy0.178186951499
+Empty
+Training accuracy0.178133497897
+Empty
+Training accuracy0.178267816964
+Empty
+Training accuracy0.178087170971
+Empty
+Training accuracy0.178206140273
+Empty
+Training accuracy0.178168859137
+Empty
+Training accuracy0.178171053529
+Empty
+Training accuracy0.17816145875
+Empty
+Training accuracy0.178089363795
+Empty
+Training accuracy0.178104441417
+Empty
+Training accuracy0.178101152182
+Empty
+Training accuracy0.178102247025
+Empty
+Training accuracy0.178103891642
+Empty
+Training accuracy0.178104713559
+Empty
+Training accuracy0.178105811539
+Empty
+Training accuracy0.178106907951
+Empty
+Training accuracy0.178108552569
+Empty
+Training accuracy0.17810992426
+Empty
+Training accuracy0.178112391579
+Empty
+Training accuracy0.178112665289
+Empty
+Training accuracy0.178114857329
+Empty
+Training accuracy0.178116228235
+Empty
+Training accuracy0.178118969265
+Empty
+Training accuracy0.178120339387
+Empty
+Training accuracy0.178121984789
+Empty
+Training accuracy0.178123630975
+Empty
+Training accuracy0.178126919426
+Empty
+Training accuracy0.178128015054
+Empty
+Training accuracy0.178130482372
+Empty
+Training accuracy0.17813322497
+Empty
+Training accuracy0.17813706398
+Empty
+Training accuracy0.178140900637
+Empty
+Training accuracy0.178148574735
+Empty
+Training accuracy0.178161459534
+Empty
+Training accuracy0.17818530845
+Empty
+Training accuracy0.178165569901
+Empty
+Training accuracy0.178216009548
+Empty
+Training accuracy0.178290568684
+Empty
+Training accuracy0.178171874661
+Empty
+Training accuracy0.178363211845
+Empty
+Training accuracy0.178219299567
+Empty
+Training accuracy0.178347037811
+Empty
+Training accuracy0.178253835753
+Empty
+Training accuracy0.178358826982
+Empty
+Training accuracy0.17824643615
+Empty
+Training accuracy0.178302357071
+Empty
+Training accuracy0.178282893802
+Empty
+Training accuracy0.178285910111
+Empty
+Training accuracy0.178337721448
+Empty
+Training accuracy0.178378836889
+Empty
+Training accuracy0.178200384504
+Empty
+Training accuracy0.178302906846
+Empty
+Training accuracy0.178258771175
+Empty
+Training accuracy0.178312775336
+Empty
+Training accuracy0.178202303617
+Empty
+Training accuracy0.178227794798
+Empty
+Training accuracy0.178229442553
+Empty
+Training accuracy0.178234923827
+Empty
+Training accuracy0.178227247376
+Empty
+Training accuracy0.178224231067
+Empty
+Training accuracy0.178223683646
+Empty
+Training accuracy0.178223411504
+Empty
+Training accuracy0.178227248945
+Empty
+Training accuracy0.178229168057
+Empty
+Training accuracy0.178229168842
+Empty
+Training accuracy0.178232457293
+Empty
+Training accuracy0.178233280778
+Empty
+Training accuracy0.178234924611
+Empty
+Training accuracy0.178235472033
+Empty
+Training accuracy0.178236570013
+Empty
+Training accuracy0.178238213062
+Empty
+Training accuracy0.178240131391
+Empty
+Training accuracy0.178241503866
+Empty
+Training accuracy0.178242873204
+Empty
+Training accuracy0.178247805489
+Empty
+Training accuracy0.178252465631
+Empty
+Training accuracy0.178256303856
+Empty
+Training accuracy0.1782626094
+Empty
+Training accuracy0.178279057145
+Empty

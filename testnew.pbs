@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -l nodes=2:ppn=1,walltime=48:00:00
+#PBS -N segnet2
+#PBS -q gpu-long
+
+module load torque/6.0.2
+module load shared
+module load anaconda/2
+module load mvapich2/gcc/64/2.2rc1
+module load cuda80/toolkit/8.0.44
+module load cudnn/5.1
+
+cd /gpfs/home/anarora/segnet
+
+python train_oldfashion.py
