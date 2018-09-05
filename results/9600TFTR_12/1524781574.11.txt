@@ -1,0 +1,26 @@
+9600TFTR_12
+Training accuracy: 0.868693113948
+Test accuracy: 0.778498282035
+Training accuracy: 0.944472005901
+Test accuracy: 0.780519972245
+Training accuracy: 0.958481635898
+Empty
+Training accuracy: 0.965179307076
+Empty
+Training accuracy: 0.969226020388
+Empty
+Training accuracy: 0.970966227353
+Empty
+Training accuracy: 0.97001003474
+Test accuracy: 0.778598080079
+Training accuracy: 0.971575655974
+Empty
+Training accuracy: 0.974329047526
+Empty
+Training accuracy: 0.97584591868
+Empty
+Training accuracy: 0.976763889504
+Empty
+Training accuracy: 0.977605984236
+Empty
+Final test accuracy: 0.778598080079

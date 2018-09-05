@@ -1,0 +1,21 @@
+Training accuracy: 0.778303980827
+Test accuracy: 0.76490538319
+Training accuracy: 0.862829606265
+Test accuracy: 0.800755212704
+Training accuracy: 0.897069228406
+Test accuracy: 0.807470490535
+Training accuracy: 0.919318156132
+Test accuracy: 0.808421005805
+Training accuracy: 0.930552119451
+Empty
+Training accuracy: 0.932406423108
+Test accuracy: 0.812002609173
+Training accuracy: 0.932728682527
+Test accuracy: 0.819397568703
+Training accuracy: 0.935107376402
+Test accuracy: 0.820690105359
+Training accuracy: 0.944365517193
+Empty
+Training accuracy: 0.949272108394
+Empty
+Final test accuracy: 0.820690105359

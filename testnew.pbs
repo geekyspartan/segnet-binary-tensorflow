@@ -1,6 +1,6 @@
 #!/bin/bash
 #PBS -l nodes=2:ppn=1,walltime=48:00:00
-#PBS -N segnet2
+#PBS -N segnet-testing
 #PBS -q gpu-long
 
 module load torque/6.0.2

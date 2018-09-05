@@ -1,0 +1,22 @@
+fakesegmCorrected
+Training accuracy: 0.801691090019
+Test accuracy: 0.731499999762
+Training accuracy: 0.920580250546
+Test accuracy: 0.740526040395
+Training accuracy: 0.942684466978
+Empty
+Training accuracy: 0.952297837989
+Empty
+Training accuracy: 0.957043488049
+Empty
+Training accuracy: 0.95663617479
+Test accuracy: 0.754889746507
+Training accuracy: 0.954575444888
+Test accuracy: 0.750516494115
+Training accuracy: 0.960218145431
+Empty
+Training accuracy: 0.964298342038
+Empty
+Training accuracy: 0.966307140091
+Empty
+Final test accuracy: 0.750516494115

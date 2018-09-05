@@ -1,0 +1,32 @@
+mixGoodCluster
+Training accuracy: 0.810466806234
+Test accuracy: 0.770367185275
+Training accuracy: 0.871616932708
+Test accuracy: 0.794316848119
+Training accuracy: 0.900969483063
+Test accuracy: 0.799210071564
+Training accuracy: 0.921635124465
+Test accuracy: 0.801287323236
+Training accuracy: 0.930684418745
+Test accuracy: 0.802921881278
+Training accuracy: 0.928837223372
+Test accuracy: 0.805467873812
+Training accuracy: 0.933188709575
+Test accuracy: 0.809249132872
+Training accuracy: 0.939620706397
+Empty
+Training accuracy: 0.945593858689
+Empty
+Training accuracy: 0.948789100412
+Empty
+Training accuracy: 0.950752312029
+Test accuracy: 0.810113718112
+Training accuracy: 0.953153461218
+Test accuracy: 0.810648431381
+Training accuracy: 0.955686327018
+Empty
+Training accuracy: 0.95778851274
+Empty
+Training accuracy: 0.959041041388
+Empty
+Final test accuracy: 0.810648431381

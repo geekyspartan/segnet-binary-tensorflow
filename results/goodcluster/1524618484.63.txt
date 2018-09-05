@@ -1,0 +1,32 @@
+GoodCluster
+Training accuracy: 0.869414450006
+Test accuracy: 0.751070320606
+Training accuracy: 0.941255097059
+Test accuracy: 0.755296876033
+Training accuracy: 0.957599183346
+Test accuracy: 0.757288197676
+Training accuracy: 0.964778255275
+Test accuracy: 0.757511277994
+Training accuracy: 0.969238083413
+Test accuracy: 0.758730043968
+Training accuracy: 0.972200687895
+Test accuracy: 0.758063366016
+Training accuracy: 0.973938224798
+Empty
+Training accuracy: 0.973214262343
+Empty
+Training accuracy: 0.971846854433
+Test accuracy: 0.76679166158
+Training accuracy: 0.974033963807
+Empty
+Training accuracy: 0.975971854748
+Empty
+Training accuracy: 0.976546986306
+Empty
+Training accuracy: 0.976341810632
+Empty
+Training accuracy: 0.977872727399
+Empty
+Training accuracy: 0.97950116434
+Empty
+Final test accuracy: 0.76679166158

@@ -1,0 +1,61 @@
+Training accuracy: 0.557213544846
+Test accuracy: 0.594588213973
+Training accuracy: 0.753750002384
+Test accuracy: 0.640555824526
+Training accuracy: 0.867682301998
+Test accuracy: 0.664865720086
+Training accuracy: 0.915520823002
+Test accuracy: 0.675754394755
+Training accuracy: 0.938385415077
+Test accuracy: 0.680613604374
+Training accuracy: 0.949947917461
+Test accuracy: 0.68246093858
+Training accuracy: 0.958515644073
+Test accuracy: 0.682901204377
+Training accuracy: 0.964036440849
+Test accuracy: 0.682808433101
+Training accuracy: 0.968619787693
+Empty
+Training accuracy: 0.972500002384
+Empty
+Training accuracy: 0.974531245232
+Empty
+Training accuracy: 0.977578115463
+Empty
+Training accuracy: 0.979635417461
+Empty
+Training accuracy: 0.980859375
+Empty
+Training accuracy: 0.98286459446
+Empty
+Training accuracy: 0.983697926998
+Empty
+Training accuracy: 0.985078120232
+Empty
+Training accuracy: 0.984661448002
+Empty
+Training accuracy: 0.986901044846
+Empty
+Training accuracy: 0.986536455154
+Empty
+Training accuracy: 0.987317705154
+Empty
+Training accuracy: 0.987786459923
+Empty
+Training accuracy: 0.987682294846
+Empty
+Training accuracy: 0.988489592075
+Empty
+Training accuracy: 0.989348959923
+Empty
+Training accuracy: 0.990442705154
+Empty
+Training accuracy: 0.990130209923
+Empty
+Training accuracy: 0.989765620232
+Empty
+Training accuracy: 0.991510415077
+Empty
+Training accuracy: 0.99138020277
+Empty
+Final test accuracy: 0.682808433101
