@@ -183,7 +183,7 @@ def testing_code(currentTestingItr, newDirPath, dirPath, images, labels, one_hot
     return sum(test_accuracy_log) / len(test_accuracy_log)
 
 if __name__ == "__main__":
-  budgetFake = 500
+  budgetFake = 2400
   budgetReal = 0
   iterations = 50
   batchSize = 50
