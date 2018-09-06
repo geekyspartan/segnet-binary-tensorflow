@@ -95,7 +95,7 @@ def testing_code(currentTestingItr, newDirPath, dirPath, images, labels, one_hot
     max_traing_accuracy = 0
     logits_value_for_mat = np.full((FLAGS.batch,48,80,2), 0.0)
 
-    f = open(dirPath + 'segnet/train_logs/' + newDirPath + "/accuracy.txt",'w', 0)
+    file_itr = open(dirPath + 'segnet/train_logs/' + newDirPath + "/accuracy.txt",'w', 0)
     for step in range(FLAGS.steps):
       current_train_accuracy_log = []
       current_val_accuracy_log = []
@@ -123,7 +123,7 @@ def testing_code(currentTestingItr, newDirPath, dirPath, images, labels, one_hot
             cv2.imwrite(dirPath + 'segnet/train_logs/' + newDirPath + "/train/" + str(count) + "_training.png", np_merge)
           # sio.savemat(dirPath + 'segnet/logitst_mat', {"logits":logits_value_for_mat})
         current_train_accuracy_log.append(current_accuracy)
-      f.write("Training accuracy: " + str(sum(current_train_accuracy_log)/len(current_train_accuracy_log)) + "\n")
+      file_itr.write("Training accuracy: " + str(sum(current_train_accuracy_log)/len(current_train_accuracy_log)) + "\n")
       print "Training accuracy: " + str(sum(current_train_accuracy_log)/len(current_train_accuracy_log))
 
       for i in range(int(valX.shape[0]/FLAGS.batch)):
@@ -168,18 +168,18 @@ def testing_code(currentTestingItr, newDirPath, dirPath, images, labels, one_hot
           # current_accuracy = imagewise_iou_np(curr_logits,teY[i*FLAGS.batch:(i+1)*FLAGS.batch],FLAGS.batch)
           test_accuracy_log.append(current_accuracy)
         print "Test accuracy: " + str(sum(test_accuracy_log) / len(test_accuracy_log))
-        f.write("Test accuracy: " + str(sum(test_accuracy_log)/len(test_accuracy_log)) + "\n")
+        file_itr.write("Test accuracy: " + str(sum(test_accuracy_log)/len(test_accuracy_log)) + "\n")
       else:
-        f.write("Empty" + "\n")
+        file_itr.write("Empty" + "\n")
 
         #min_loss = current_loss
         #if save:
         #  saver.save(sess, FLAGS.train_ckpt, global_step=global_step)
       print "Step done!"
-    f.write("Final test accuracy: " + str(sum(test_accuracy_log) / len(test_accuracy_log)))
+    file_itr.write("Final test accuracy: " + str(sum(test_accuracy_log) / len(test_accuracy_log)))
     print "Final test accuracy: " + str(sum(test_accuracy_log) / len(test_accuracy_log))
     # f.write(str(sum(test_accuracy_log)/len(test_accuracy_log)))
-    f.close()
+    file_itr.close()
     return sum(test_accuracy_log) / len(test_accuracy_log)
 
 if __name__ == "__main__":
@@ -231,21 +231,26 @@ if __name__ == "__main__":
   totalStartTime = time.time()
   trX,valX,teX,trY,valY,teY, trExtraX, trExtraY = read_data(images_dir_train,labels_dir_train,images_dir_val,labels_dir_val,images_dir_test,labels_dir_test, images_dir_train_extra, labels_dir_train_extra, extraData, realData, budgetFake, budgetReal)
   totalStartTimeAfterRead = time.time()
-  f = open(dirPath + 'segnet/train_logs/' + newDirPath + "/averageAccuracy.txt" ,'w', 0)
+  fileContent = ""
   for i in range(totalTestingCount):
-      
+      if (realData and budgetReal < 2400):
+          tr_range = np.arange(trX.shape[0])
+          np.random.shuffle(tr_range)
+          trX = trX[tr_range[:budgetReal]]
+          trY = trY[tr_range[:budgetReal]]
+          
       if(extraData):
           tr_range = np.arange(trExtraX.shape[0])
           np.random.shuffle(tr_range)
-          trExtraX_temp = trExtraX[tr_range[:budget]]
-          trExtraY_temp = trExtraY[tr_range[:budget]]
+          trExtraX_temp = trExtraX[tr_range[:budgetFake]]
+          trExtraY_temp = trExtraY[tr_range[:budgetFake]]
 
-          if (realData):
-              trX_temp = np.append(trX, trExtraX_temp, axis = 0)
-              trY_temp = np.append(trY, trExtraY_temp, axis = 0)
-          else:
-              trX_temp = trExtraX_temp
-              trY_temp = trExtraY_temp
+      if (realData and extraData) :
+          trX_temp = np.append(trX, trExtraX_temp, axis = 0)
+          trY_temp = np.append(trY, trExtraY_temp, axis = 0)
+      elif extraData:
+          trX_temp = trExtraX_temp
+          trY_temp = trExtraY_temp
       else:
           trX_temp = trX
           trY_temp = trY
@@ -253,15 +258,16 @@ if __name__ == "__main__":
       start = time.time()
       accu = testing_code(i, newDirPath, dirPath, images, labels, one_hot_labels, autoencoder, logits, FLAGS, trX_temp, trY_temp, valX, valY, teX, teY)
       
-      f.write(i + " iteration accuracy: " + accu)
-      f.write(i + " time: " + str((time.time() - start)))
+      fileContent += str(i) + " iteration accuracy: " + str(accu) + "\n"
+      fileContent += str(i) + " time: " + str((time.time() - start)) + "\n"
       averageAccuracy = averageAccuracy + accu
-      
   
-  f.write("Final test accuracy: " + str(averageAccuracy / float(totalTestingCount)))
-  f.write("Total time excluding read operation: " + str((time.time() - totalStartTimeAfterRead)))
-  f.write("Total time including read operation: " + str((time.time() - totalStartTime)))
-  f.close()
+  finalFile = open(newDirPath + "/averageAccuracy_for_" + str(budgetReal) + "Real_" + str(budgetFake) + "_Fake_Random_.txt" ,'w', 0)
+  finalFile.write(fileContent)
+  finalFile.write("\nFinal test accuracy: " + str(averageAccuracy / float(totalTestingCount)))
+  finalFile.write("\nTotal time excluding read operation: " + str((time.time() - totalStartTimeAfterRead)))
+  finalFile.write("\nTotal time including read operation: " + str((time.time() - totalStartTime)))
+  finalFile.close()
 
 
 
